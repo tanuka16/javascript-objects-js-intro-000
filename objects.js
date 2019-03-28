@@ -3,12 +3,6 @@ var playlist = {
 }
 //                       object, key(string), value
 function updatePlaylist(playlist, artistName, songTitle){
-  //return Object.assign({}, playlist, { [artistName]: songTitle  })
-  //Taylor : "Back to December"
-  //playlist.Taylor = "happy";
   playlist [artistName] = "songTitle"
   return playlist
-  //return Object.assign({}, playlist, {[artistName] : "songTitle"})
-  //return {Object (Taylor, Slowdive, My Bloody Valentine)}
 }
-//const
