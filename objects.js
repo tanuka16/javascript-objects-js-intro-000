@@ -12,6 +12,6 @@ function removeFromPlaylist(playlist, artistName){
   //delete playlist.Taylor;
   //delete playlist['Taylor']
   delete playlist.artistName
-  return playlist
+  console.log(playlist.artistName);
 
 }
