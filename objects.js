@@ -8,8 +8,8 @@ function updatePlaylist(playlist, artistName, songTitle){
 }
 
 function removeFromPlaylist(playlist, artistName){
-  //delete playlist.Taylor;
-  delete playlist['Taylor']
+  delete object.Taylor;
+  //delete playlist['Taylor']
   //delete playlist.artistName;
   return playlist;
 
