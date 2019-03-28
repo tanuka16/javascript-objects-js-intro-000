@@ -3,7 +3,8 @@ var playlist = {
 }
 //                       object, key(string), value
 function updatePlaylist(playlist, artistName, songTitle){
-  Taylor : "Back to December"
+  //Taylor : "Back to December"
+  playlist.artistName = "songTitle";
   //playlist [Taylor] = "Back to December"
   //return Object.assign({}, playlist, {[artistName] : "songTitle"})
   //return {Object (Taylor, Slowdive, My Bloody Valentine)}
