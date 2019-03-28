@@ -4,5 +4,5 @@ var playlist = {
 //                       object, key(string), value
 function updatePlaylist(playlist, artistName, songTitle){
   //playlist [Taylor] = "Back to December"
-
+  Taylor : "Back to December"
 }
