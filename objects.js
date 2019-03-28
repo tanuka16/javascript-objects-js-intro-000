@@ -3,6 +3,6 @@ var playlist = {
 }
 //                       object, key(string), value
 function updatePlaylist(playlist, artistName, songTitle){
-  playlist [Taylor] : "Back to December"
+  playlist [Taylor] = "Back to December"
 
 }
