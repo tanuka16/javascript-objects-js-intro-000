@@ -7,6 +7,7 @@ function updatePlaylist(playlist, artistName, songTitle){
   //Taylor : "Back to December"
   //playlist.Taylor = "happy";
   playlist [Taylor] = "Back to December"
+  return playlist
   //return Object.assign({}, playlist, {[artistName] : "songTitle"})
   //return {Object (Taylor, Slowdive, My Bloody Valentine)}
 }
